@@ -1,4 +1,4 @@
-👋 Olá, sou @wiec16.
+👋 Olá, sou Wiec
 - 👀 Estou interessado em criar novos projetos;
 - 🌱 Atualmente estou aprendendo novas coisas;
 - 💞️ Procuro colaborar em html/css;
